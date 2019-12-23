@@ -57,26 +57,26 @@ https://github.com/roninlaw/medical-paper-notes/blob/master/Handbook%20of%20Reti
 - [Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning](
 https://github.com/roninlaw/medical-paper-notes/blob/master/Identifying%20Medical%20Diagnoses%20and%20Treatable%20Diseases%20by%20Image-Based%20Deep%20Learning.md) 
 - [Macular OCT Classification Using a Multi-Scale Convolutional Neural Network Ensemble](
-https://github.com/roninlaw/Resources/blob/master/Medical%20Papers/Macular%20OCT%20Classification%20Using%20a%20Multi-Scale%20Convolutional%20Neural%20Network%20Ensemble.md) 
+https://github.com/roninlaw/medical-paper-notes/blob/master/Macular%20OCT%20Classification%20Using%20a%20Multi-Scale%20Convolutional%20Neural%20Network%20Ensemble.md) 
 - [OCT NET](
-https://github.com/roninlaw/Resources/blob/master/Medical%20Papers/OCT-NET.md)
+https://github.com/roninlaw/medical-paper-notes/blob/master/OCT-NET.md)
 - [OCT Primer](
-https://github.com/roninlaw/Resources/blob/master/Medical%20Papers/OCT%20Primer.md)
+https://github.com/roninlaw/medical-paper-notes/blob/master/OCT%20Primer.md)
 - [OpthoBook](
-https://github.com/roninlaw/Resources/blob/master/Medical%20Papers/OpthoBook.md)
+https://github.com/roninlaw/medical-paper-notes/blob/master/OpthoBook.md)
 - [Predicting Disease Progression with a Model for Multivariate Longitudinal Clinical Data](
-https://github.com/roninlaw/Resources/blob/master/Medical%20Papers/Predicting%20Disease%20Progression%20with%20a%20Model%20for%20Multivariate%20Longitudinal%20Clinical%20Data.md) 
+https://github.com/roninlaw/medical-paper-notes/blob/master/Predicting%20Disease%20Progression%20with%20a%20Model%20for%20Multivariate%20Longitudinal%20Clinical%20Data.md) 
 - [Predicting Cardiovascular Risk Factors from Retinal Fundus Photographs using Deep Learning](
-https://github.com/roninlaw/Resources/blob/master/Medical%20Papers/Predicting%20Cardiovascular%20Risk%20Factors%20from%20Retinal%20Fundus%20Photographs%20using%20Deep%20Learning.md) 
+https://github.com/roninlaw/medical-paper-notes/blob/master/Predicting%20Cardiovascular%20Risk%20Factors%20from%20Retinal%20Fundus%20Photographs%20using%20Deep%20Learning.md) 
 - [Replication study: Development and validation of deep learning algorithm for detection of diabetic retinopathy in retinal fundus photographs](
-https://github.com/roninlaw/Resources/blob/master/Medical%20Papers/Replication%20study:%20Development%20and%20validation%20of%20deep%20learning%20algorithm%20for%20detection%20of%20diabetic%20retinopathy%20in%20retinal%20fundus%20photographs.md) 
+https://github.com/roninlaw/medical-paper-notes/blob/master/Replication%20study:%20Development%20and%20validation%20of%20deep%20learning%20algorithm%20for%20detection%20of%20diabetic%20retinopathy%20in%20retinal%20fundus%20photographs.md) 
 - [Retinopathy Signs Improved Prediction and Reclassification of Cardiovascular Disease Risk in Diabetes: A prospective cohort study](
-https://github.com/roninlaw/Resources/blob/master/Medical%20Papers/Retinopathy%20Signs%20Improved%20Prediction%20and%20Reclassification%20of%20Cardiovascular%20Disease%20Risk%20in%20Diabetes:%20A%20prospective%20cohort%20study.md) 
+https://github.com/roninlaw/medical-paper-notes/blob/master/Retinopathy%20Signs%20Improved%20Prediction%20and%20Reclassification%20of%20Cardiovascular%20Disease%20Risk%20in%20Diabetes:%20A%20prospective%20cohort%20study.md) 
 - [RETOUCH: The Retinal OCT Fluid Detection and Segmentation Benchmark and Challenge](
-https://github.com/roninlaw/Resources/blob/master/Medical%20Papers/RETOUCH:%20The%20Retinal%20OCT%20Fluid%20Detection%20and%20Segmentation%20Benchmark%20and%20Challenge.md) 
+https://github.com/roninlaw/medical-paper-notes/blob/master/RETOUCH:%20The%20Retinal%20OCT%20Fluid%20Detection%20and%20Segmentation%20Benchmark%20and%20Challenge.md) 
 
 
 ##### Sepsis Papers
 - [Artificial Intelligence Clinician learns optimal treatment strategies for sepsis in intensive care](
-https://github.com/roninlaw/Resources/blob/master/Medical%20Papers/The%20Artificial%20Intelligence%20Clinician%20learns%20optimal%20treatment%20strategies%20for%20sepsis%20in%20intensive%20care.md) 
+https://github.com/roninlaw/medical-paper-notes/blob/master/The%20Artificial%20Intelligence%20Clinician%20learns%20optimal%20treatment%20strategies%20for%20sepsis%20in%20intensive%20care.md)
 
