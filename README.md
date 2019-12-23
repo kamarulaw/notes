@@ -3,59 +3,59 @@ Personal summaries of medical papers
 
 ##### General Books
 - [Guide to Medical Image Analysis](
-https://github.com/roninlaw/Resources/blob/master/Medical%20Papers/Guide%20to%20Medical%20Image%20Analysis.md) 
+https://github.com/roninlaw/medical-paper-notes/blob/master/Guide%20to%20Medical%20Image%20Analysis.md) 
 
 ##### Bipolar Disorder
-- [About Bipolar Disorder](https://github.com/roninlaw/Resources/blob/master/Medical%20Papers/About%20Bipolar.md)
+- [About Bipolar Disorder](https://github.com/roninlaw/medical-paper-notes/blob/master/About%20Bipolar.md)
 
 ##### CKD/AKI Papers
-- [Applying the Temporal Abstraction Technique to the Prediction of Chronic Kidney Disease Progression](https://github.com/roninlaw/Resources/blob/master/Medical%20Papers/Applying%20the%20Temporal%20Abstraction%20Technique%20to%20the%20Prediction%20of%20Chronic%20Kidney%20Disease%20Progression.md)
+- [Applying the Temporal Abstraction Technique to the Prediction of Chronic Kidney Disease Progression](https://github.com/roninlaw/medical-paper-notes/blob/master/Applying%20the%20Temporal%20Abstraction%20Technique%20to%20the%20Prediction%20of%20Chronic%20Kidney%20Disease%20Progression.md)
 - [Approach to Renal Replacement Therapy (90)](
-https://github.com/roninlaw/Resources/blob/master/Medical%20Papers/Approach%20to%20Renal%20Replacement%20Therapy%20(90).md)
-- [Arteriovenous fistula creation may slow estimated glomerular filtration rate trajectory](https://github.com/roninlaw/Resources/blob/master/Medical%20Papers/Arteriovenous%20fistula%20creation%20may%20slow%20estimated%20glomerular%20filtration%20rate%20trajectory.md)
+https://github.com/roninlaw/medical-paper-notes/blob/master/Approach%20to%20Renal%20Replacement%20Therapy%20(90).md)
+- [Arteriovenous fistula creation may slow estimated glomerular filtration rate trajectory](https://github.com/roninlaw/medical-paper-notes/blob/master/Arteriovenous%20fistula%20creation%20may%20slow%20estimated%20glomerular%20filtration%20rate%20trajectory.md)
 - [Chronic kidney disease and cardiovascular disease in the Medicare population](
-https://github.com/roninlaw/Resources/blob/master/Medical%20Papers/Chronic%20kidney%20disease%20and%20cardiovascular%20disease%20in%20the%20Medicare%20population.md)
+https://github.com/roninlaw/medical-paper-notes/blob/master/Chronic%20kidney%20disease%20and%20cardiovascular%20disease%20in%20the%20Medicare%20population.md)
 - [Longitudinal Follow-Up and Outcomes Among a Population with CKD in a Large Managed Care Organization](
-https://github.com/roninlaw/Resources/blob/master/Medical%20Papers/Longitudinal%20Follow-Up%20and%20Outcomes%20Among%20a%20Population%20with%20CKD%20in%20a%20Large%20Managed%20Care%20Organization.md)
+https://github.com/roninlaw/medical-paper-notes/blob/master/Longitudinal%20Follow-Up%20and%20Outcomes%20Among%20a%20Population%20with%20CKD%20in%20a%20Large%20Managed%20Care%20Organization.md)
 - [Multi-Trajectory Models of Chronic Kidney Disease Progression](
-https://github.com/roninlaw/Resources/blob/master/Medical%20Papers/Multi-Trajectory%20Models%20of%20Chronic%20Kidney%20Disease%20Progression.md)
+https://github.com/roninlaw/medical-paper-notes/blob/master/Multi-Trajectory%20Models%20of%20Chronic%20Kidney%20Disease%20Progression.md)
 - [Normal reference values for glomerular filtration rate what do we really know?](
-https://github.com/roninlaw/Resources/blob/master/Medical%20Papers/Normal%20reference%20values%20for%20glomerular%20filtration%20rate:%20what%20do%20we%20really%20know.md)
+https://github.com/roninlaw/medical-paper-notes/blob/master/Normal%20reference%20values%20for%20glomerular%20filtration%20rate:%20what%20do%20we%20really%20know.md)
 - [Predicting the early risk of CKD in patients with diabetes using real-world data](
-https://github.com/roninlaw/Resources/blob/master/Medical%20Papers/Predicting%20the%20early%20risk%20of%20CKD%20in%20patients%20with%20diabetes%20using%20real-world%20data.md
+https://github.com/roninlaw/medical-paper-notes/blob/master/Predicting%20the%20early%20risk%20of%20CKD%20in%20patients%20with%20diabetes%20using%20real-world%20data.md
 )
 - [Red Blood Cell Survival in Chronic Renal Failure](
-https://github.com/roninlaw/Resources/blob/master/Medical%20Papers/Red%20Blood%20Cell%20Survival%20in%20Chronic%20Renal%20Failure.md)
+https://github.com/roninlaw/medical-paper-notes/blob/master/Red%20Blood%20Cell%20Survival%20in%20Chronic%20Renal%20Failure.md)
 - [Risk factors for unplanned and crash dialysis starts: a protocol for a systematic review and meta-analysis](
-https://github.com/roninlaw/Resources/blob/master/Medical%20Papers/Risk%20factors%20for%20unplanned%20and%20crash%20dialysis%20starts:%20a%20protocol%20for%20a%20systematic%20review%20and%20meta-analysis.md)
+https://github.com/roninlaw/medical-paper-notes/blob/master/Risk%20factors%20for%20unplanned%20and%20crash%20dialysis%20starts:%20a%20protocol%20for%20a%20systematic%20review%20and%20meta-analysis.md)
 - [Risk prediction for chronic kidney disease progression using heterogeneous electronic health record data and time series analysis](
-https://github.com/roninlaw/Resources/blob/master/Medical%20Papers/Risk%20prediction%20for%20chronic%20kidney%20disease%20progression%20using%20heterogeneous%20electronic%20health%20record%20data%20and%20time%20series%20analysis.md)
+https://github.com/roninlaw/medical-paper-notes/blob/master/Risk%20prediction%20for%20chronic%20kidney%20disease%20progression%20using%20heterogeneous%20electronic%20health%20record%20data%20and%20time%20series%20analysis.md)
 - [Scalable Joint Modeling of Longitudinal and Point Process Data for Disease Trajectory Prediction and Improving Management of Chronic Kidney Disease](
-https://github.com/roninlaw/Resources/blob/master/Medical%20Papers/Scalable%20Joint%20Modeling%20of%20Longitudinal%20and%20Point%20Process%20Data%20for%20Disease%20Trajectory%20Prediction%20and%20Improving%20Management%20of%20Chronic%20Kidney%20Disease.md)
+https://github.com/roninlaw/medical-paper-notes/blob/master/Scalable%20Joint%20Modeling%20of%20Longitudinal%20and%20Point%20Process%20Data%20for%20Disease%20Trajectory%20Prediction%20and%20Improving%20Management%20of%20Chronic%20Kidney%20Disease.md)
 - [Section 5: Dialysis Interventions for Treatment of AKI](
-https://github.com/roninlaw/Resources/blob/master/Medical%20Papers/Section%205:%20Dialysis%20Interventions%20for%20Treatment%20of%20AKI.md)
+https://github.com/roninlaw/medical-paper-notes/blob/master/Section%205:%20Dialysis%20Interventions%20for%20Treatment%20of%20AKI.md)
 - [Survival Analysis with Electronic Health Record Data: Experiments with Chronic Kidney Disease](
-https://github.com/roninlaw/Resources/blob/master/Medical%20Papers/Survival%20Analysis%20with%20Electronic%20Health%20Record%20Data:%20Experiments%20with%20Chronic%20Kidney%20Disease.md)
+https://github.com/roninlaw/medical-paper-notes/blob/master/Survival%20Analysis%20with%20Electronic%20Health%20Record%20Data:%20Experiments%20with%20Chronic%20Kidney%20Disease.md)
 - [Vascular Access for Dialytic Therapies](
-https://github.com/roninlaw/Resources/blob/master/Medical%20Papers/Vascular%20Access%20for%20Dialytic%20Therapies%20(91).md)
+https://github.com/roninlaw/medical-paper-notes/blob/master/Vascular%20Access%20for%20Dialytic%20Therapies%20(91).md)
 
 ##### Opthalmology Papers
 - [A Framework for Individualizing Predictions of Disease Trajectories by Exploiting Multi-Resolution Structure](
-https://github.com/roninlaw/Resources/blob/master/Medical%20Papers/A%20Framework%20for%20Individualizing%20Predictions%20of%20Disease%20Trajectories%20by%20Exploiting%20Multi-Resolution%20Structure.md) 
+https://github.com/roninlaw/medical-paper-notes/blob/master/A%20Framework%20for%20Individualizing%20Predictions%20of%20Disease%20Trajectories%20by%20Exploiting%20Multi-Resolution%20Structure.md) 
 - [Acquired Macular Disorders](
-https://github.com/roninlaw/Resources/blob/master/Medical%20Papers/Acquired%20Macular%20Disorders.md) 
+https://github.com/roninlaw/medical-paper-notes/blob/master/Acquired%20Macular%20Disorders.md) 
 - [Automatic Feature Learning for Glaucoma Detection Based on Deep Learning](
-https://github.com/roninlaw/Resources/blob/master/Medical%20Papers/Automatic%20Feature%20Learning%20for%20Glaucoma%20Detection%20Based%20on%20Deep%20Learning.md) 
+https://github.com/roninlaw/medical-paper-notes/blob/master/Automatic%20Feature%20Learning%20for%20Glaucoma%20Detection%20Based%20on%20Deep%20Learning.md) 
 - [Clinically applicable deep learning for diagnosis and referral in retinal disease](
-https://github.com/roninlaw/Resources/blob/master/Medical%20Papers/Clinically%20applicable%20deep%20learning%20for%20diagnosis%20and%20referral%20in%20retinal%20disease.md) 
+https://github.com/roninlaw/medical-paper-notes/blob/master/Clinically%20applicable%20deep%20learning%20for%20diagnosis%20and%20referral%20in%20retinal%20disease.md) 
 - [Deep learning for predicting refractive error from retinal fundus images](
-https://github.com/roninlaw/Resources/blob/master/Medical%20Papers/Deep%20learning%20for%20predicting%20refractive%20error%20from%20retinal%20funds%20images.md) 
+https://github.com/roninlaw/medical-paper-notes/blob/master/Deep%20learning%20for%20predicting%20refractive%20error%20from%20retinal%20funds%20images.md) 
 - [Efficacy of a DL System for Detecting Glaucomatous Optic Neuropathy Based on Color Fundus Photos](
-https://github.com/roninlaw/Resources/blob/master/Medical%20Papers/Efficacy%20of%20a%20Deep%20Learning%20System%20for%20Detecting%20Glaucomatous%20Optic%20Neuropathy%20Based%20on%20Color%20Fundus%20Photographs.md) 
+https://github.com/roninlaw/medical-paper-notes/blob/master/Efficacy%20of%20a%20Deep%20Learning%20System%20for%20Detecting%20Glaucomatous%20Optic%20Neuropathy%20Based%20on%20Color%20Fundus%20Photographs.md) 
 - [Handbook of Retinal OCT](
-https://github.com/roninlaw/Resources/blob/master/Medical%20Papers/Handbook%20of%20Retinal%20OCT.md) 
+https://github.com/roninlaw/medical-paper-notes/blob/master/Handbook%20of%20Retinal%20OCT.md) 
 - [Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning](
-https://github.com/roninlaw/Resources/blob/master/Medical%20Papers/Identifying%20Medical%20Diagnoses%20and%20Treatable%20Diseases%20by%20Image-Based%20Deep%20Learning.md) 
+https://github.com/roninlaw/medical-paper-notes/blob/master/Identifying%20Medical%20Diagnoses%20and%20Treatable%20Diseases%20by%20Image-Based%20Deep%20Learning.md) 
 - [Macular OCT Classification Using a Multi-Scale Convolutional Neural Network Ensemble](
 https://github.com/roninlaw/Resources/blob/master/Medical%20Papers/Macular%20OCT%20Classification%20Using%20a%20Multi-Scale%20Convolutional%20Neural%20Network%20Ensemble.md) 
 - [OCT NET](
