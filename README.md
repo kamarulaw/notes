@@ -74,6 +74,9 @@ https://github.com/roninlaw/medical-paper-notes/blob/master/Replication%20study:
 https://github.com/roninlaw/medical-paper-notes/blob/master/Retinopathy%20Signs%20Improved%20Prediction%20and%20Reclassification%20of%20Cardiovascular%20Disease%20Risk%20in%20Diabetes:%20A%20prospective%20cohort%20study.md) 
 - [RETOUCH: The Retinal OCT Fluid Detection and Segmentation Benchmark and Challenge](
 https://github.com/roninlaw/medical-paper-notes/blob/master/RETOUCH:%20The%20Retinal%20OCT%20Fluid%20Detection%20and%20Segmentation%20Benchmark%20and%20Challenge.md) 
+- [State-of-the-art in retinal optical coherence tomography image analysis](
+https://github.com/roninlaw/medical-paper-notes/blob/master/State-of-the-art%20in%20retinal%20optical%20coherence%20tomography%20image%20analysis.md) 
+
 
 
 ##### Sepsis Papers
