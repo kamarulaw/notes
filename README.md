@@ -56,6 +56,8 @@ https://github.com/roninlaw/medical-paper-notes/blob/master/Efficacy%20of%20a%20
 https://github.com/roninlaw/medical-paper-notes/blob/master/Handbook%20of%20Retinal%20OCT.md) 
 - [Identifying Medical Diagnoses and Treatable Diseases by Image-Based Deep Learning](
 https://github.com/roninlaw/medical-paper-notes/blob/master/Identifying%20Medical%20Diagnoses%20and%20Treatable%20Diseases%20by%20Image-Based%20Deep%20Learning.md) 
+- [Laplacian feature detection and feature alignment for multimodal ophthalmic image registration using phase correlation and Hessian affine feature space](
+https://github.com/roninlaw/medical-paper-notes/blob/master/Laplacian%20feature%20detection%20and%20feature%20alignment%20for%20multimodal%20ophthalmic%20image%20registration%20using%20phase%20correlation%20and%20Hessian%20affine%20feature%20space.md) 
 - [Macular OCT Classification Using a Multi-Scale Convolutional Neural Network Ensemble](
 https://github.com/roninlaw/medical-paper-notes/blob/master/Macular%20OCT%20Classification%20Using%20a%20Multi-Scale%20Convolutional%20Neural%20Network%20Ensemble.md) 
 - [OCT NET](
@@ -76,7 +78,6 @@ https://github.com/roninlaw/medical-paper-notes/blob/master/Retinopathy%20Signs%
 https://github.com/roninlaw/medical-paper-notes/blob/master/RETOUCH:%20The%20Retinal%20OCT%20Fluid%20Detection%20and%20Segmentation%20Benchmark%20and%20Challenge.md) 
 - [State-of-the-art in retinal optical coherence tomography image analysis](
 https://github.com/roninlaw/medical-paper-notes/blob/master/State-of-the-art%20in%20retinal%20optical%20coherence%20tomography%20image%20analysis.md) 
-
 
 
 ##### Sepsis Papers
