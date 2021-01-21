@@ -80,3 +80,6 @@ https://github.com/roninlaw/medical-paper-notes/blob/master/RETOUCH:%20The%20Ret
 - [Artificial Intelligence Clinician learns optimal treatment strategies for sepsis in intensive care](
 https://github.com/roninlaw/medical-paper-notes/blob/master/The%20Artificial%20Intelligence%20Clinician%20learns%20optimal%20treatment%20strategies%20for%20sepsis%20in%20intensive%20care.md)
 
+##### COBB2041: Cell and Systems Modeling
+- [Systems Biology: A Brief Overview](
+https://github.com/roninlaw/medical-paper-notes/blob/master/Systems%20Biology:%20A%20Brief%20Overview.md)
