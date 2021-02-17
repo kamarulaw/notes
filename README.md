@@ -39,6 +39,10 @@ https://github.com/roninlaw/medical-paper-notes/blob/master/Survival%20Analysis%
 - [Vascular Access for Dialytic Therapies](
 https://github.com/roninlaw/medical-paper-notes/blob/master/Vascular%20Access%20for%20Dialytic%20Therapies%20(91).md)
 
+##### Drug Development
+- [Applications of machine learning in drug development](
+https://github.com/roninlaw/medical-paper-notes/blob/master/Applications%20of%20machine%20learning%20in%20drug%20discovery%20and%20development.md)
+
 ##### Opthalmology Papers
 - [A Framework for Individualizing Predictions of Disease Trajectories by Exploiting Multi-Resolution Structure](
 https://github.com/roninlaw/medical-paper-notes/blob/master/A%20Framework%20for%20Individualizing%20Predictions%20of%20Disease%20Trajectories%20by%20Exploiting%20Multi-Resolution%20Structure.md) 
