@@ -1,9 +1,17 @@
-# medical-paper-notes
-Personal summaries of medical papers
+# notes
+Personal notes/summaries of papers/books read while working as a Machine Learning Engineer at UPMC Enterprises
 
 ##### General Books
+- [Applied Predictive Modeling](
+https://github.com/kamarulaw/notes/blob/master/Applied%20Predictive%20Modeling.md) 
+- [Deep Learning](
+https://github.com/kamarulaw/notes/blob/master/Deep%20Learning.md) 
 - [Guide to Medical Image Analysis](
 https://github.com/roninlaw/medical-paper-notes/blob/master/Guide%20to%20Medical%20Image%20Analysis.md) 
+- [Machine Learning Glossary](
+https://github.com/kamarulaw/notes/blob/master/Machine%20Learning%20Gloassary.md) 
+- [Pattern Recognition and Machine Learning](
+https://github.com/kamarulaw/notes/blob/master/Pattern%20Recognition%20and%20Machine%20Learning.md) 
 
 ##### Bipolar Disorder
 - [About Bipolar Disorder](https://github.com/roninlaw/medical-paper-notes/blob/master/About%20Bipolar.md)
