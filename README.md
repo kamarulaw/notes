@@ -1,5 +1,5 @@
 # notes
-Personal notes/summaries of papers/books read while working as a Machine Learning Engineer at UPMC Enterprises
+Personal notes/summaries of papers/books read while working as a Machine Learning Engineer at UPMC Enterprises / Generative AI
 
 ##### General Books
 - [Applied Predictive Modeling](
